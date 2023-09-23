@@ -1,2 +1,2 @@
 # C_study
-study C and reverse the code
+learning C and reverse the code
